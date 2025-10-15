@@ -1,3 +1,5 @@
+![IMG_4434](https://github.com/user-attachments/assets/2b0b8e06-b64a-4a13-a548-bf09d3716b26)
+
 # Doran & Daughters Fine WebWorks ⚙️
 Nestled in the Silicon Shire, we construct elegantly complex back-office and data applications, to your specifications.
 
