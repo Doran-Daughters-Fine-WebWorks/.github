@@ -1,7 +1,5 @@
-![Image 1](https://github.com/user-attachments/assets/cfbed7ed-8698-4c51-a4c6-cd4df2685bf1)
-
-# Welcome!
-We construct elegantly complex back-office and data applications, to your specifications.
+# Doran & Daughters Fine WebWorks ⚙️
+Nestled in the Silicon Shire, we construct elegantly complex back-office and data applications, to your specifications.
 
 ## Also consulting
 We solve your codebase, data, or dev-team problems.
