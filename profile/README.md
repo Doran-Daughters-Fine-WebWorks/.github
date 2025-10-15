@@ -1,10 +1,9 @@
 ![IMG_4434](https://github.com/user-attachments/assets/c5bca117-8f81-4397-ae5b-5b87cd08414a)
-----
-Nestled in the Silicon Shire, we construct elegantly complex back-office and data applications, to your specifications.
+
+Nestled in the Silicon Shire, we construct elegantly complex **back-office and data applications**, to your specifications.
 
 ## Also consulting
 We solve your codebase, data, or dev-team problems.
-
 
 ### Contact _Doran & Daughters_ when you are looking for real results.
 
@@ -21,3 +20,5 @@ Eugene, OR
 
 ## Specialties
 • **Rich-Internet Applications** • **Data-Intensive Applications** • **Dev-Team Improvement** • **Data Migration** • **Problem Codebases**
+
+![IMG_4434](https://github.com/user-attachments/assets/8c275bc2-c063-4338-8976-9295ecf897be)
