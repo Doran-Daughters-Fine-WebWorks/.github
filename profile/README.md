@@ -19,6 +19,6 @@ Eugene, OR
 2013
 
 ## Specialties
-• **Rich-Internet Applications** • **Data-Intensive Applications** • **Dev-Team Improvement** • **Data Migration** • **Problem Codebases**
+• **Rich-Internet Applications** • **Data-Intensive Applications** • **Dev-Team Improvement** • **Data Migration** • **Problem Codebases** • **SLA**
 
 ![IMG_4434](https://github.com/user-attachments/assets/8c275bc2-c063-4338-8976-9295ecf897be)
